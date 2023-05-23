@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi 👋, I'm Hermela
+
+- I am interested in Frontend web development
 
 <!--
 **herget28/herget28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
