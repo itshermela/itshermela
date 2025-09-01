@@ -25,22 +25,20 @@
   ## 🔹 My Portfolio Project
 
   
-📫 **Let’s connect: **https://www.linkedin.com/in/hermela-getnet-407ab9211**
+📫 Let’s connect: **https://www.linkedin.com/in/hermela-getnet-407ab9211**
 
 <p align="left">
 <a href="https://linkedin.com/in/hermela getnet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hermela getnet" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Tools:</h3>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- QA / Testing -->
   <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/seleniumhq/seleniumhq-icon.svg" alt="selenium" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/seleniumhq/selenium/main/images/selenium_logo_square_green.png" alt="selenium" width="40" height="40"/>
   </a>
   <a href="https://playwright.dev/" target="_blank" rel="noreferrer">
-    <img src="https://playwright.dev/img/playwright-logo.svg" alt="playwright" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/microsoft/playwright/main/docs/images/playwright-logo.svg" alt="playwright" width="40" height="40"/>
   </a>
   <a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/cypress_io/cypress_io-icon.svg" alt="cypress" width="40" height="40"/>
@@ -49,9 +47,8 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
   <a href="https://docs.pytest.org/" target="_blank" rel="noreferrer">
-    <img src="https://docs.pytest.org/en/stable/_static/pytest_logo.png" alt="pytest" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/pytest-dev/pytest/main/docs/pytest_logo.png" alt="pytest" width="40" height="40"/>
   </a>
-
  <!-- Development -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
