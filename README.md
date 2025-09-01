@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hermela</h1>
-<h3 align="center">A passionate quality assurance engineer and software developer from Ethiopia</h3>
+<h1 align="center">Hi 👋, I'm Hermela Getnet</h1>
+<h3 align="center"> <bold>🎯 **QA Engineer | ISTQB Certified | Manual & Automation Testing | Ex-Software Developer**  </bold></h3>
 
 - 🔭 I’m currently working as [Quality Assurance Engineer](at Tern Systems)
 
