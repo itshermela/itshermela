@@ -1,9 +1,31 @@
-<h1 align="center">Hi 👋, I'm Hermela Getnet</h1>
-<h3 align="center"> <bold>🎯 **QA Engineer | ISTQB Certified | Manual & Automation Testing | Ex-Software Developer**  </bold></h3>
+<h1 align="center">Hi, I'm Hermela Getnet 👋</h1>
+<h3 align="center"> <b>🎯 QA Engineer | ISTQB Certified | Manual & Automation Testing | Ex-Software Developer  </b></h3>
 
-- 🔭 I’m currently working as [Quality Assurance Engineer](at Tern Systems)
+- 💻 Passionate about building high-quality software through thorough testing.
+- 💡 I bring a unique perspective to QA — combining software development experience with strong QA practices.  
+- 📈 4 years in manual & automation testing, backed by prior experience in software development.  
 
-- 📫 How to reach me **https://www.linkedin.com/in/hermela-getnet-407ab9211**
+## 🔹 What I Do
+- 📝 **Manual Testing**
+  - Functional testing (smoke, regression, integration, system testing)  
+  - Non-functional testing (performance, usability, security basics)  
+  - Exploratory testing (edge cases, ad-hoc scenarios)  
+  - UI/UX validation (layout, consistency, accessibility checks)  
+  - Stress & load testing (using tools like JMeter for basic scenarios)  
+
+- 🤖 **Automation**
+  - Selenium, Playwright, Cypress, Postman/Newman, Ghost Inspector, Pytest  
+
+- 💡 **Development Background**
+  - Proficient in Python, JavaScript, Java, Git/version control  
+
+- ⚡ **Tools**
+  - Jira, GitHub Actions, ClickUp, Docker  
+
+  ## 🔹 My Portfolio Project
+
+  
+📫 **Let’s connect: **https://www.linkedin.com/in/hermela-getnet-407ab9211**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
