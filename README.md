@@ -85,6 +85,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=itsela&show_icons=true&locale=en" alt="itsela" />
 </p>
 
-<p><i>Note: This GitHub account highlights QA engineering expertise, automation testing skills, and development experience.</i></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itshermela&show_icons=true&locale=en" alt="itshermela" /></p>
