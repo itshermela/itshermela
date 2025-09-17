@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Hermela Getnet 👋</h1>
 <h3 align="center"> <b>🎯 QA Engineer | Manual + Automation | Web | Mobile | API | ISTQB Certified </b></h3>
-<h2> Skilled in designing test strategies, executing manual test cases, and building automation frameworks to deliver **bug-free, high-performing products**. </h2>
+<h2> Skilled in designing test strategies, executing manual test cases, and building automation frameworks to deliver bug-free, high-performing products. </h2>
 
 - 💻 Passionate about building high-quality software through thorough testing.
 - 💡 I bring a unique perspective to QA — combining software development experience with strong QA practices.  
