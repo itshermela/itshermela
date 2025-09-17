@@ -22,6 +22,6 @@
 
 📫 **Let’s connect:** [LinkedIn](https://www.linkedin.com/in/hermela-getnet-407ab9211)  
 📫 **Let’s Connect**  
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/hermela-getnet-407ab9211)  
-- Upwork: [Upwork](https://www.upwork.com/freelancers/~0116ff170adf54e08a?mp_source=share)  
+- [LinkedIn](https://www.linkedin.com/in/hermela-getnet-407ab9211)  
+- [Upwork](https://www.upwork.com/freelancers/~0116ff170adf54e08a?mp_source=share)  
 - Email: hermelagetbel@email.com
